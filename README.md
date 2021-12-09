@@ -5,6 +5,7 @@ he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Pozna�
   - Formal logic
   - Programming
   - Data mining
+  - Puzzles
   - VR, AR, CGI
 
 ### 📚 Capable in
@@ -13,6 +14,7 @@ he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Pozna�
   - ❤❤❤ LaTeX
   - ❤❤❤ SQL 
   - ❤❤ R
+  - ❤❤ PHP
   - ❤❤ Laravel
   - ❤❤ Symfony
   - ❤❤ C# 
