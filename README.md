@@ -18,8 +18,10 @@ he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Pozna�
   - ❤❤ Laravel
   - ❤❤ Symfony
   - ❤❤ C# 
-  - ❤ Native JavaScript
-  - ❤ HTML/CSS (i know my bootstrap)
+  - ❤❤ Native JavaScript
+  - ❤❤ HTML
+  - ❤ CSS (i know my bootstrap)
+  - ❤ jQuery
 
 <!--
 **PogromcaPapai/PogromcaPapai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
