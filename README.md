@@ -21,6 +21,9 @@ he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Pozna�
   - ❤ C# 
   - ❤ Go
 
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PogromcaPapai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PogromcaPapai)](https://github.com/anuraghazra/github-readme-stats) |
+|---|---|
+
 <!--
 **PogromcaPapai/PogromcaPapai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
