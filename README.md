@@ -14,8 +14,8 @@ he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Pozna�
   - ❤❤❤ LaTeX
   - ❤❤❤ SQL 
   - ❤❤❤ R
+  - ❤❤❤ JavaScript (Native, jQuery)
   - ❤❤ PHP (Laravel, Symfony)
-  - ❤❤ JavaScript (Native, jQuery)
   - ❤❤ HTML
   - ❤❤ CSS (bootstrap, tailwind)
   - ❤ C# 
