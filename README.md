@@ -1,5 +1,10 @@
 he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Poznań ● BDFL @ [Larch](https://github.com/Larch-Team/Larch) ● Weeb and Vtuber enthusiast
 
+### Links
+
+  - [Google Scholar](https://scholar.google.com/citations?user=-j1KOx0AAAAJ)
+  - [ORCID](https://orcid.org/0000-0002-7811-4580)
+
 ### ✨ Interested in
 
   - Formal logic
