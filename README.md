@@ -19,11 +19,11 @@ he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Pozna�
   - ❤❤❤ LaTeX
   - ❤❤❤ SQL 
   - ❤❤❤ R
-  - ❤❤❤ JavaScript (Native, jQuery)
-  - ❤❤ PHP (Laravel, Symfony)
+  - ❤❤❤ JavaScript (Native, jQuery, Node.js)
+  - ❤❤❤ PHP (Laravel, Symfony)
   - ❤❤ HTML
   - ❤❤ CSS (bootstrap, tailwind)
-  - ❤ C# 
+  - ❤❤ C# 
   - ❤ Go
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PogromcaPapai&layout=compact&hide=blade,html,tex)](https://github.com/anuraghazra/github-readme-stats)|  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PogromcaPapai)](https://github.com/anuraghazra/github-readme-stats) |
