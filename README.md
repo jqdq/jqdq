@@ -1,4 +1,4 @@
-he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Poznań ● BDFL @ [Larch](https://github.com/Larch-Team/Larch) ● QA Analyst @ [Fandom](https://github.com/Wikia) ● Weeb and Vtuber enthusiast
+he/him ● Cog Sci at AMU, Poznań ● CS at WSB, Poznań ● QA Analyst @ [Fandom](https://github.com/Wikia) ● BDFL @ [Larch](https://github.com/Larch-Team/Larch)
 
 ### 👁‍🗨 Links
 
