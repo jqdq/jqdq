@@ -16,13 +16,13 @@ he/him ● Cognitive science at AMU, Poznań ● Computer science at WSB, Pozna�
 ### 📚 Capable in
 
   - 💕💕💕 Python
-  - ❤❤❤ LaTeX
-  - ❤❤❤ SQL 
   - ❤❤❤ R
-  - ❤❤❤ JavaScript (Native, jQuery, Node.js)
+  - ❤❤❤ LaTeX
+  - ❤❤❤ JavaScript (Native, jQuery, Node.js, AppScript)
+  - ❤❤❤ SQL
   - ❤❤❤ PHP (Laravel, Symfony)
-  - ❤❤ HTML
-  - ❤❤ CSS (bootstrap, tailwind)
+  - ❤❤❤ HTML
+  - ❤❤ CSS (bootstrap, tailwind, pico.css)
   - ❤❤ C# 
   - ❤ Go
 
