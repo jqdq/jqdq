@@ -16,15 +16,16 @@ he/him ● Cog Sci at AMU, Poznań ● CS at WSB, Poznań ● QA Analyst @ [Fand
 ### 📚 Capable in
 
   - 💕💕💕 Python
+  - ❤❤❤ JavaScript (raw, jQuery, Node.js, React.js, AppScript)
   - ❤❤❤ R
   - ❤❤❤ LaTeX
-  - ❤❤❤ JavaScript (Native, jQuery, Node.js, AppScript)
   - ❤❤❤ SQL
   - ❤❤❤ PHP (Laravel, Symfony)
   - ❤❤❤ HTML
-  - ❤❤ CSS (bootstrap, tailwind, pico.css)
-  - ❤❤ C# 
-  - ❤ Go
+  - ❤❤ CSS (raw, bootstrap, tailwind, pico.css)
+  - ❤❤ C#
+
+And many other languages, if I'm desperate enough...
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PogromcaPapai&layout=compact&hide=blade,html,tex)](https://github.com/anuraghazra/github-readme-stats)|  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PogromcaPapai)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
