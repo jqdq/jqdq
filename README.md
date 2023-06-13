@@ -1,4 +1,5 @@
-he/him ● Cog Sci at AMU, Poznań ● CS at WSB, Poznań ● QA Analyst @ [Fandom](https://github.com/Wikia) ● BDFL @ [Larch](https://github.com/Larch-Team/Larch)
+he/him ● Cog Sci at AMU, Poznań ● QA Analyst @ [Fandom](https://github.com/Wikia) ● Doing cool stuff @ [letterfowl](https://github.com/letterfowl)
+<!-- BDFL @ [Larch](https://github.com/Larch-Team/Larch) -->
 
 ### 👁‍🗨 Links
 
