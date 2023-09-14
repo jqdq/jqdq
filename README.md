@@ -1,4 +1,4 @@
-he/him ● Cog Sci at AMU, Poznań ● QA Analyst @ [Fandom](https://github.com/Wikia) ● Doing cool stuff @ [letterfowl](https://github.com/letterfowl)
+(Soon) MA in CogSci ● BSc in CS ● QA Analyst @ [Fandom](https://github.com/Wikia) ● Doing cool stuff @ [letterfowl](https://github.com/letterfowl)
 <!-- BDFL @ [Larch](https://github.com/Larch-Team/Larch) -->
 
 ### 👁‍🗨 Links
