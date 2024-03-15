@@ -1,6 +1,5 @@
 MA in CogSci ● BSc in CS ● QA Analyst @ [Fandom](https://github.com/Wikia) ● Figuring out crosswords @ [letterfowl](https://github.com/letterfowl)
 <!-- BDFL @ [Larch](https://github.com/Larch-Team/Larch) -->
-[Google Scholar](https://scholar.google.com/citations?user=-j1KOx0AAAAJ)
 
 ### ✨ Interested in
 
