@@ -1,4 +1,4 @@
-MA in CogSci ● BSc in CS ● QA Analyst @ [Fandom](https://github.com/Wikia) ● Figuring out crosswords @ [letterfowl](https://github.com/letterfowl)
+MA in CogSci ● BSc in CS ● Data Analyst @ pomagam.pl ● Figuring out crosswords @ [letterfowl](https://github.com/letterfowl)
 <!-- BDFL @ [Larch](https://github.com/Larch-Team/Larch) -->
 
 ### ✨ Interested in
