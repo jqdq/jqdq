@@ -3,7 +3,7 @@ MA in CogSci ● BSc in CS ● Data Analyst @ pomagam.pl ● Teaching and mathin
 ### ✨ Interested in
 
   - Formal logic
-  - Programming
+  - Classic AI
   - Data mining
   - Puzzles
   - VR, AR, CGI
@@ -12,11 +12,12 @@ MA in CogSci ● BSc in CS ● Data Analyst @ pomagam.pl ● Teaching and mathin
 
   - 💕💕💕 Python
   - ❤❤❤ R
-  - ❤❤❤ SQL, Tableau
-  - ❤❤❤ JavaScript - TypeScript, vanilla, Vue
+  - ❤❤❤ SQL - BigQuery, Tableau
+  - ❤❤❤ JavaScript - TypeScript, Vue
   - ❤❤❤ LaTeX
   - ❤❤ PHP - Laravel, Symfony
-  - ❤❤ CSS - vanilla, bootstrap, tailwind
+  - ❤❤ CSS - Bootstrap, Tailwind, Daisy UI
+  - ❤❤ Go - fiber
   - ❤ C#
   - ❤ Rust
 
